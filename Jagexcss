@@ -77,7 +77,7 @@
 /* badges */
 .creator span.user-role-icon {
     background-image: url(https://nightbloo.github.io/plug/icons/hostpink.png);
-    display: inline-block !important;
+    display: inline-block !important; 
 }
 
 .co-owner span.user-role-icon {
